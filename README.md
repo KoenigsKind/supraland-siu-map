@@ -1,2 +1,3 @@
-# supraland-siu-map
-(Deprecated) Just to add a redirect to the new GitHub repo
+# _Deprecated_
+The map for Supraland Six Inches Under moved to:  
+https://github.com/SupraGamesCommunity/supraland-siu-map
